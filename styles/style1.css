@@ -1,0 +1,15 @@
+#header{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+#content{
+    text-align: center;
+    color: violet;
+    font-size: 25px;
+}
+
+body{
+    background-color: springgreen;
+}
